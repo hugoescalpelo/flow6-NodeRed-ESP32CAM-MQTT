@@ -61,11 +61,11 @@
         "topic": "topic",
         "topicType": "msg",
         "style": "",
-        "onvalue": "true",
+        "onvalue": "false",
         "onvalueType": "bool",
         "onicon": "",
         "oncolor": "",
-        "offvalue": "false",
+        "offvalue": "true",
         "offvalueType": "bool",
         "officon": "",
         "offcolor": "",
@@ -122,8 +122,7 @@
         "willPayload": "",
         "willMsg": {},
         "userProps": "",
-        "sessionExpiry": "",
-        "credentials": {}
+        "sessionExpiry": ""
     },
     {
         "id": "043e5f2937ed3e5a",
@@ -150,7 +149,7 @@
     {
         "id": "3e87bd088d4a25ea",
         "type": "ui_tab",
-        "name": "Flow 6 G8 - Comunicación MQTT con ESP32CAM",
+        "name": "Flow 6 - Comunicación MQTT con ESP32CAM",
         "icon": "dashboard",
         "order": 11,
         "disabled": false,
