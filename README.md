@@ -72,7 +72,8 @@ Para poder configurar tu entorno y realizar este ejercicio, encesitas lo siguien
 ### Notas
 
 - Este Flow se suscribe al tema codigoIoT/flow6/mqtt
-- El mensaje mqtt usado para probar este flow es `mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Hugo Vargas","temp":18,"hum":78}'`
+- El mensaje mqtt usado para enviar información al flow `mosquitto_pub -h localhost -t codigoIoT/Mor/mqtt/flow4 -m '{"ID":"Hugo Vargas","temp":18,"hum":78}'`
+- La instrucción para monitorear el funcionamiento del boton es la siguiente `mosquitto_sub -h localhost -t codigoIoT/flow6/mqttin`
 - Este flow publica en el tema codigoIoT/flow6/mqttin
 
 ## Resultados
