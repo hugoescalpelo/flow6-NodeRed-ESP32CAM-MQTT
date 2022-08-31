@@ -78,11 +78,13 @@ Para poder configurar tu entorno y realizar este ejercicio, encesitas lo siguien
 ## Resultados
 
 A continuación puedes ver los nodos del flow.
-![]()
+![](https://github.com/hugoescalpelo/flow6-NodeRed-ESP32CAM-MQTT/blob/main/Imagenes/nodos.png?raw=true)
 
 A continuación puede ver el tablero resultante.
 
-![]()
+![](https://github.com/hugoescalpelo/flow6-NodeRed-ESP32CAM-MQTT/blob/main/Imagenes/Dashboard.png?raw=true)
+
+Este flow enciende y apaga el led Flash del ESP32CAM cuando se activa el switch, puedes ver un video en la sección de evidencias.
 
 ## Evidencias
 
